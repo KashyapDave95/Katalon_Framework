@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Page                        Next</name>
+   <tag></tag>
+   <elementGuidId>65ea1338-242e-4002-b937-5d7c99cd4795</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[4]/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1056173-449b-43d9-ae1b-823faa77daa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action  next</value>
+      <webElementGuid>c3488a5f-893c-436d-95f1-636fdad3b568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://qa.magentoprojects.net/men/tops-men/hoodies-and-sweatshirts-men.html?p=2</value>
+      <webElementGuid>5e5a6d73-b924-4cd1-9c07-e8880f78975c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>8fb6840d-5391-423a-85b6-3772b11913de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Page
+                        Next
+                    </value>
+      <webElementGuid>30196951-1fb2-4f1e-980d-881a04b00a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;toolbar toolbar-products&quot;]/div[@class=&quot;pages&quot;]/ul[@class=&quot;items pages-items&quot;]/li[@class=&quot;item pages-item-next&quot;]/a[@class=&quot;action  next&quot;]</value>
+      <webElementGuid>3efef411-9884-4a42-bc5f-f82483571735</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[4]/div/ul/li[3]/a</value>
+      <webElementGuid>63de4898-e0dd-457e-adb7-ed736fbc7420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[2]/following::a[1]</value>
+      <webElementGuid>f3aea88b-fd79-418e-9b05-8e9669cf2c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://qa.magentoprojects.net/men/tops-men/hoodies-and-sweatshirts-men.html?p=2')])[2]</value>
+      <webElementGuid>c2c55a11-692e-40b1-8c63-72dceade3a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[3]/a</value>
+      <webElementGuid>3667b873-ccf9-4f5c-8c9c-8f3fb81e881b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://qa.magentoprojects.net/men/tops-men/hoodies-and-sweatshirts-men.html?p=2' and @title = 'Next' and (text() = '
+                        Page
+                        Next
+                    ' or . = '
+                        Page
+                        Next
+                    ')]</value>
+      <webElementGuid>f00a69a0-613a-4e56-991c-10ed8ca7104c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

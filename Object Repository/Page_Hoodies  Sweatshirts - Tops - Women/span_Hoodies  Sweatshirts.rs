@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hoodies  Sweatshirts</name>
+   <tag></tag>
+   <elementGuidId>91b767f3-6465-4b16-b987-3437da28a03f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-23']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-23 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f45e3d1-8b18-483b-bb27-192bd0ec89ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoodies &amp; Sweatshirts</value>
+      <webElementGuid>4f4471e7-fbaf-45f4-acbf-14edcb8e9216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-23&quot;)/span[1]</value>
+      <webElementGuid>1442bd69-7c93-4ebc-85cb-a65bc5cc4bd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-23']/span</value>
+      <webElementGuid>506a3e9b-b6be-45b9-bd1d-8fc6690c761c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jackets'])[2]/following::span[1]</value>
+      <webElementGuid>cc498415-36d7-46af-a779-ee72d8215743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tops'])[2]/following::span[2]</value>
+      <webElementGuid>f0224bd5-1eca-4b52-bcad-a46ac111bc9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tees'])[2]/preceding::span[1]</value>
+      <webElementGuid>f0760985-255c-4e44-8fa8-e2997cee8fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanks'])[1]/preceding::span[2]</value>
+      <webElementGuid>f1e00ef4-5f16-4f77-9baa-6782e948d9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[2]/a/span</value>
+      <webElementGuid>1c62ec1a-21f5-491a-91f9-542766735c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hoodies &amp; Sweatshirts' or . = 'Hoodies &amp; Sweatshirts')]</value>
+      <webElementGuid>ba9d8419-61bb-4568-b74b-eaa914237938</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

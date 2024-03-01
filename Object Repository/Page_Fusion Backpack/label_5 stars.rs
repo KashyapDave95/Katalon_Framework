@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_5 stars</name>
+   <tag></tag>
+   <elementGuidId>0614b799-a761-476e-b7da-ef205d827a41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='Rating_5_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Rating_5_label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>937237bd-fe49-4214-b621-8f215cab047a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rating-5</value>
+      <webElementGuid>3cfb24af-2bc4-42e4-946e-89a789271edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Rating_5</value>
+      <webElementGuid>fa61dc2c-51fd-470e-b4a0-5152a953b38d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>5 stars</value>
+      <webElementGuid>79629677-f203-4e3f-90cd-d2107faa679e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Rating_5_label</value>
+      <webElementGuid>bbecaa28-da7a-45c8-b5eb-ad41177c4d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    5 stars
+                                </value>
+      <webElementGuid>330b5f8e-8ef3-458c-8d20-f5211ce2d767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Rating_5_label&quot;)</value>
+      <webElementGuid>860b285a-133a-41f0-9412-82f92e4f8369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='Rating_5_label']</value>
+      <webElementGuid>42334644-b216-4b5f-97ea-33dbf71c3907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-review-table']/div/div/label[5]</value>
+      <webElementGuid>bc06a328-7a02-4a7f-883d-a597bfb41035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[4]/following::label[5]</value>
+      <webElementGuid>5ef68b1b-ee41-4259-b820-515cb2560a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Rating'])[1]/following::label[6]</value>
+      <webElementGuid>5f61fc2e-ff12-4960-b730-c40d4750638a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select one of each of the ratings above.'])[1]/preceding::label[1]</value>
+      <webElementGuid>b1b07dff-439b-4f11-b24f-d65a06543cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nickname'])[1]/preceding::label[1]</value>
+      <webElementGuid>2fd48a8c-fe4f-4e87-b38c-82ac626006e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[5]</value>
+      <webElementGuid>6b46c924-1fad-4847-9fc3-2bca56900a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = '5 stars' and @id = 'Rating_5_label' and (text() = '
+                                    5 stars
+                                ' or . = '
+                                    5 stars
+                                ')]</value>
+      <webElementGuid>f9076f71-b0bd-44c9-8e75-944c38fc262d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

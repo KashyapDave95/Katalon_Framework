@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add to Wish List</name>
+   <tag></tag>
+   <elementGuidId>b985b717-5239-4d98-85db-7ffc9bf52476</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div/div[5]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.towishlist</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20c817df-1f83-481c-8033-e960820d92a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>37a39b94-1b3a-4c5c-a57f-fc529972a8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action towishlist</value>
+      <webElementGuid>996c7ef3-472c-4a0f-9a09-38abf9f61a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-post</name>
+      <type>Main</type>
+      <value>{&quot;action&quot;:&quot;https:\/\/qa.magentoprojects.net\/wishlist\/index\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:160,&quot;uenc&quot;:&quot;aHR0cHM6Ly9xYS5tYWdlbnRvcHJvamVjdHMubmV0L2hlcm8taG9vZGllLmh0bWw,&quot;}}</value>
+      <webElementGuid>3eb03a33-28e4-45e1-80f1-414459299905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>add-to-wishlist</value>
+      <webElementGuid>329d59cf-117e-4565-b322-7ac7a3bc7354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Wish List</value>
+      <webElementGuid>3a12d187-16f4-42c0-b59b-89d1be62a910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;product-info-main&quot;]/div[@class=&quot;product-social-links&quot;]/div[@class=&quot;product-addto-links&quot;]/a[@class=&quot;action towishlist&quot;]</value>
+      <webElementGuid>72c19db2-1f52-4ac8-8b11-d345ce59d256</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div/div[5]/div/a</value>
+      <webElementGuid>1bacd7a1-75ad-4e17-a0dc-041bf30163dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::a[1]</value>
+      <webElementGuid>718aa1e0-cd0f-423b-88a4-9f166045d385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::a[1]</value>
+      <webElementGuid>2e1e7f00-9aea-409c-ad3a-dd2630e37cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Compare'])[1]/preceding::a[1]</value>
+      <webElementGuid>1f07defd-7922-491f-8073-c007e77e2641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>8161285a-94fb-4f25-a2d1-9937466edac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>9c38b9be-f1b4-46e3-ac15-fd66d19250ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Add to Wish List' or . = 'Add to Wish List')]</value>
+      <webElementGuid>04073ab6-9f0a-4334-a4a3-25f63f2539e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

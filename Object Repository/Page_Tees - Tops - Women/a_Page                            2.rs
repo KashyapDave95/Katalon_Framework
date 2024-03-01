@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Page                            2</name>
+   <tag></tag>
+   <elementGuidId>2e1f1a5e-e38b-42c6-aaff-efc14df698ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[4]/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.page</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a41fd9b4-fb6a-4553-9b4a-ae5e6d5ce7a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://qa.magentoprojects.net/women/tops-women/tees-women.html?p=2&amp;product_list_limit=36</value>
+      <webElementGuid>41481582-40e6-4e8f-b183-d906d64505d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>80d2bf31-d81e-42f9-b974-b149d9543307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Page
+                            2
+                        </value>
+      <webElementGuid>6f21ab3d-6a73-415c-b82e-1b79ca22bcfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;toolbar toolbar-products&quot;]/div[@class=&quot;pages&quot;]/ul[@class=&quot;items pages-items&quot;]/li[@class=&quot;item&quot;]/a[@class=&quot;page&quot;]</value>
+      <webElementGuid>5b605e53-37a6-43c3-b087-cb3244bc0a22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[4]/div/ul/li[2]/a</value>
+      <webElementGuid>5a502fc2-9b9c-41a4-8d95-9b60147b54a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::a[1]</value>
+      <webElementGuid>d59df6c8-a7b0-4325-baf2-9ea3f294a2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[3]/preceding::a[1]</value>
+      <webElementGuid>94f26cc4-29e5-47e3-88b2-2acfe4512695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://qa.magentoprojects.net/women/tops-women/tees-women.html?p=2&amp;product_list_limit=36')]</value>
+      <webElementGuid>b903e67f-3a35-4a4a-b878-c619a0e3c396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]/a</value>
+      <webElementGuid>8c3885c9-a739-4e06-8eb9-2a770a666eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://qa.magentoprojects.net/women/tops-women/tees-women.html?p=2&amp;product_list_limit=36' and (text() = '
+                            Page
+                            2
+                        ' or . = '
+                            Page
+                            2
+                        ')]</value>
+      <webElementGuid>444f9ffb-831d-4a12-8e7d-66027929a521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
