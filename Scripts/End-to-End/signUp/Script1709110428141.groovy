@@ -39,4 +39,5 @@ WebUI.click(findTestObject('Object Repository/Page_Create New Customer Account/s
 WebUI.click(findTestObject('Object Repository/Page_My Account/img'))
 
 println('Hello, User signed  in successfully!')
+println('Hello, User signed  in github!')
 
