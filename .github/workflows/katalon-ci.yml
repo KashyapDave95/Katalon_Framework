@@ -23,7 +23,7 @@ jobs:
     - name: Execute Katalon Tests
       run: |
         cd 'C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp'
-        katalonc.exe -noSplash -runMode=console -projectPath='C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp\MagentoWebApp.prj' -retry=0 -testSuitePath='Test Suites/New Test Suite'
+        katalonc.exe -noSplash -runMode=console -projectPath='MagentoWebApp\MagentoWebApp.prj' -retry=0 -testSuitePath='Test Suites/New Test Suite'
         
     - name: Upload Test Reports
       uses: actions/upload-artifact@v2
