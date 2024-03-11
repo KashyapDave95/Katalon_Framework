@@ -11,9 +11,9 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.1
+        uses: actions/checkout@v2
       - name: Set-up-KatalonStudio
-        uses: katalon-studio/katalon-studio-github-action@v2
+        uses: Katalon/actions/setup@v2
         with:
           version: '9.3.1'
           email: ${{ secrets.KATALON_EMAIL }}
