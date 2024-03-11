@@ -13,8 +13,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Set-up-KatalonStudio
-        uses: Katalon/actions/setup@v2
+      - name: Set up Katalon Studio
+        uses: katalon-studio/action-setup@v2
         with:
           version: '9.3.1'
           email: ${{ secrets.KATALON_EMAIL }}
