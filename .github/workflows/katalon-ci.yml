@@ -10,12 +10,12 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout-Repository
+    - name: Checkout
       uses: actions/checkout@v2.1
 
-      - name: Set-up-KatalonStudio
+    - name: Set-up-KatalonStudio
       uses: katalon-studio/katalon-studio-github-action@v2
-        with:
+      with:
           version: '9.3.1'
           email: ${{ secrets.KATALON_EMAIL }}
           password: ${{ secrets.KATALON_PASSWORD }}
