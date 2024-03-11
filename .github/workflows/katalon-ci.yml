@@ -19,6 +19,10 @@ jobs:
         version: '9.3.1'
         email: ${{ secrets.KATALON_EMAIL }}
         password: ${{ secrets.KATALON_PASSWORD }}
+      krePath: ${{ env.KRE_PATH }}
+
+    - name: Set up KRE path
+      run: echo "KRE_PATH=C:\Users\kashyap.dave\Documents\Katalon_Studio_Engine_Windows_64-9.3.1" >> $GITHUB_ENV
 
     - name: Execute Katalon Tests
       run: |
