@@ -40,4 +40,6 @@ WebUI.click(findTestObject('Object Repository/Page_My Account/img'))
 
 println('Hello, User signed  in successfully!')
 
+println('Hello, User is available now for shopping!')
+println('Hello, User is available now for checkout!')
 
