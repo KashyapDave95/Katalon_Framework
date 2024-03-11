@@ -42,6 +42,6 @@ println('Hello, User signed  in successfully!')
 
 println('Hello, User is available now for shopping!')
 println('Hello, User is available now for checkout!')
-println('Hello, User is available now for Place an order quickly!')
+println('Hello, User is available now for Place an order!')
 
 

@@ -10,27 +10,23 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Set up KatalonStudio
-      uses: katalon-actions/setup@v2
-      with:
-        version: '9.3.1'
-        email: ${{ secrets.KATALON_EMAIL }}
-        password: ${{ secrets.KATALON_PASSWORD }}
-      krePath: ${{ env.KRE_PATH }}
+      - name: Set up KatalonStudio
+        uses: katalon-actions/setup@v2
+        with:
+          version: '9.3.1'
+          email: ${{ secrets.KATALON_EMAIL }}
+          password: ${{ secrets.KATALON_PASSWORD }}
 
-    - name: Set up KRE path
-      run: echo "KRE_PATH=C:\Users\kashyap.dave\Documents\Katalon_Studio_Engine_Windows_64-9.3.1" >> $GITHUB_ENV
-
-    - name: Execute Katalon Tests
-      run: |
-        cd 'C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp'
-        katalonc.exe -noSplash -runMode=console -projectPath="MagentoWebApp\MagentoWebApp.prj" -retry=0 -testSuitePath="Test Suites/New Test Suite"
-        
-    - name: Upload Test Reports
-      uses: actions/upload-artifact@v2
-      with:
-        name: katalon-report
-        path: C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp\Reports
+      - name: Execute Katalon Tests
+        run: |
+          cd 'C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp'
+          katalonc.exe -noSplash -runMode=console -projectPath="MagentoWebApp\MagentoWebApp.prj" -retry=0 -testSuitePath="Test Suites/New Test Suite"
+          
+      - name: Upload Test Reports
+        uses: actions/upload-artifact@v2
+        with:
+          name: katalon-report
+          path: C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp\Reports

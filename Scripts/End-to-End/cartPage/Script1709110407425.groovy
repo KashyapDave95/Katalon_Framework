@@ -79,4 +79,5 @@ WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/span_Update Sho
 
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/span_Proceed to Checkout'))
 println('Hello, User checkout successfully!')
+println('Verify cart total items!')
 
