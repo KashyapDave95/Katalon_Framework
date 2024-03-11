@@ -10,6 +10,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
+<<<<<<< HEAD
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set-up-KatalonStudio
@@ -27,3 +28,27 @@ jobs:
         with:
           name: katalon-report
           path: C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp\Reports
+=======
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Set up KatalonStudio
+      uses: Katalon/actions/setup@v2
+      with:
+        version: '9.3.1'
+        email: ${{ secrets.KATALON_EMAIL }}
+        password: ${{ secrets.KATALON_PASSWORD }}
+        repository: https://github.com/KashyapDave95/Katalon_Framework.git
+
+
+    - name: Execute Katalon Tests
+      run: |
+        cd 'C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp'
+        katalonc.exe -noSplash -runMode=console -projectPath='C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp\MagentoWebApp.prj' -retry=0 -testSuitePath='Test Suites/New Test Suite'
+
+    - name: Upload Test Reports
+      uses: actions/upload-artifact@v2
+      with:
+        name: katalon-report
+        path: C:\Users\kashyap.dave\KatalonStudio\MagentoWebApp\Reports
+>>>>>>> 232c82dd075ef37d7f8b81be3962a5378624402a
