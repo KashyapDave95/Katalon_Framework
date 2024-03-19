@@ -53,4 +53,5 @@ WebUI.click(findTestObject('Object Repository/Page_Success Page/a_Print receipt'
 
 WebUI.click(findTestObject('Object Repository/Page_Success Page/span_Continue Shopping'))
 println('Hello, User Place an order successfully! & generated receipt')
+println('Customer checkout done')
 
