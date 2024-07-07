@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account
 
 WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_Last Name_lastname'), 'Test')
 
-WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_Email_email'), 'kashyap.dave+29@krishtechnolabs.com')
+WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_Email_email'), 'kashyap.dave+77@krishtechnolabs.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Create New Customer Account/input_Password_password'), 'dm7VE3JXRq/aw0bf5i8RFQ==')
 
@@ -41,7 +41,8 @@ WebUI.click(findTestObject('Object Repository/Page_My Account/img'))
 println('Hello, User signed  in successfully!')
 
 println('Hello, User is available now for shopping!')
-println('Hello, User is available now for checkout!')
-println('Hello, User is available now for Place an order!')
 
+println('Hello, User is available now for checkout!')
+
+println('Hello, User is available now for Place an order!')
 
